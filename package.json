@@ -37,6 +37,7 @@
     "@clerk/nextjs": "^6.34.1",
     "@hookform/resolvers": "^5.2.2",
     "@logtape/logtape": "^1.1.2",
+    "@radix-ui/react-slot": "^1.2.4",
     "@sentry/nextjs": "^10.22.0",
     "@t3-oss/env-nextjs": "^0.13.8",
     "class-variance-authority": "^0.7.1",
